@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MaisQueOficial">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/MaisQueOficial.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
