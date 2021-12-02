@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Controle_Estoque:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Controle_Estoque_jar</output-path>
+    <root id="archive" name="Controle_Estoque.jar">
+      <element id="module-output" name="Controle_Estoque" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../com.mysql.jdbc_5.1.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

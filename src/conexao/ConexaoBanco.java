@@ -12,9 +12,9 @@ public class ConexaoBanco {
         String PASS = "";
         
         Class.forName("com.mysql.jdbc.Driver");
-        URL = "jdbc:mysql://localhost:3306/projetopincel?useSSL=false";
+        URL = "jdbc:mysql://localhost:3306/controleestoque?useSSL=false";
         USER = "root";
-        PASS = "Mj*701314";
+        PASS = "1234";
         
         connection = (Connection) DriverManager.getConnection(URL, USER, PASS);
     }
